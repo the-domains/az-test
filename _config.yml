@@ -1,6 +1,7 @@
 name: az-test
 favicon: null
 layout_spectrum: 0.91081
+typography_spectrum: 0.5
 title: Andrew Zhang Photography
 cta:
   domain: null
@@ -15,10 +16,15 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
+  brandColors:
+    - '#f7f3ee'
+    - '#18292a'
+    - '#7d5d3a'
+    - '#b4bbbf'
+    - '#6d8897'
+  brandStrength: 0.5
+  lightness: 0.9375
+  saturation: 0.75
   rhythmicContrast: 0.5
 purpose:
   - name: engagement
