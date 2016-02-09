@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Andrew Zhang Photography]]></title>
+        <description><![CDATA[Andrew Zhang Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Feb 2016 03:23:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[California Coast]]></title>
+            <description><![CDATA[<article><h1>California Coast</h1><p>Big Sur! Hwy-1 California Coast. Wandering the scenic route known as California's Pacific Coast Highway 1 which is beautiful and all-around an amazing drive if you have the time. It seems to have taken up some popularity in recent years but anyway, it starts in Monterey, taking you through Carmel to Point Lobos, down Big Sur, onto Bixby Bridge, and ending at Pfeiffer State Park (McWay Falls).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d93a1cb426d0a3efb80e929121a67f38d764f2e0.jpg"></article>]]></description>
+            <link>undefinedcalifornia-coast/index.html</link>
+            <guid isPermaLink="false">4699047b-0c73-4d0a-8108-c4687d9b7dff</guid>
+            <pubDate>Tue, 09 Feb 2016 03:23:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
